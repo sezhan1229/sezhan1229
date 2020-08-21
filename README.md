@@ -1,6 +1,7 @@
 
 ### Hi there 👋
-- I'm Serena! I'm a `product designer` on Docs team @GitHub!
+- I'm Serena! I'm currently working @GitHub on Docs team!
+- In the past, I worked at [Google Nest](https://nest.com/), [Microsoft Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 
 **Facts about me 🐾**
 
